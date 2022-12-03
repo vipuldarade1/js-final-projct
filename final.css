@@ -1,0 +1,35 @@
+.fa {
+   
+    margin:30% 10% 0% 32%; 
+    color: aliceblue;
+}
+.evry1{
+    align-content: center;
+    margin: 0% 10% 0% 43%;
+    box-sizing: border-box;
+    border-style: none;
+    border: 1px;
+    border-radius: 50%;
+    background-color: green;
+    width: 20%;
+    height: 300px;
+
+
+}
+.evry{
+    align-content: center;
+    margin: 0% 10% 0% 40%;
+
+}
+h1 {
+    font-weight: 400;
+    width: 50%;
+    height: 30px;
+    text-align: center;
+}
+
+p {
+    color: rgb(167, 166, 166);
+    width: 50%;
+    text-align: center;
+}
